@@ -1,0 +1,29 @@
+1. Review what is happening with the project
+2. Research what other features you want to go in the project
+3. Don't rush the features. You definitely will want to be able to explain everything in detail in an interview
+
+Some things we can implement:
+1. Password strength Analysis
+2. Password expiration
+3. Password generator customization - specify length, minimum special, minimum caps, minimum numbers, include caps, lower case or numbers
+5. export/import functionality
+6. generated password history?
+7. instead of a search, see if you can just log in to see all of your passwords in a list.
+
+
+
+To improve:
+
+Passphrase generator:
+1. open a new window to change parameters:
+    a. # of words
+    b. customize separator
+    c. capitalize/uppercase/lowercase
+    d. include number
+        - number of numbers?
+    e. include special character
+        - number of special characters?
+
+Password list:
+1. open a new window and display data.json information
+
